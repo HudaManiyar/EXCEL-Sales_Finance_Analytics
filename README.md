@@ -54,6 +54,8 @@ AtliQ Hardware, a leading provider of computer hardware and peripherals, serves 
   - Assessing financial performance, aiding decision-making, and improving communication with stakeholders.
   - Comparing against industry benchmarks, historical data, and establishing a basis for budgeting and forecasting.
   - Aligning financial strategies with strategic objectives and fostering organizational confidence in financial prospects.
+
+---
 <br />
 
 Please check out the **[Full Report](https://github.com/HudaManiyar/EXCEL-Sales_Finance_Analytics/blob/main/ExcelProject_ATLIQ.pdf)** for Further Explanation!<br />
